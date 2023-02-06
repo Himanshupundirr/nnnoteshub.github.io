@@ -1,0 +1,67 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: aqua;
+}
+.title{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color:aqua;
+    font-style: bold;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 40px;
+   
+}
+
+
+
+navbar,ul{
+    color: aqua;
+    list-style-type: none;
+    display: flex;
+    margin-top: 10%  ;
+    
+  
+   
+
+}
+navbar ul,li,a{
+    text-align: center;
+    font-size: 30px;
+    padding-right: 10%;
+}
+    navbar li a:hover {
+        color: aqua;
+      }
+    
+
+.image{
+   
+   
+   text-align: center;
+   
+}
+.content{
+    text-align: center;
+    font-size:15px;
+  font-family: cursive;
+    text-decoration: underline;
+    margin-top:8%;
+    
+}
+.img2{
+    padding-left: 5%;
+  
+}
+.img3{
+    padding-right: 1%;
+  
+}
+..img4{
+    padding-left: 5%;
+  
+}
+.
+.
